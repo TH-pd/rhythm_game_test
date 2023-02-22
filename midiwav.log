@@ -1,0 +1,25 @@
+﻿  pch.cpp
+  Audiofiles.cpp
+  Game.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\ccomplex(22,23): warning C4996: '_Header_ccomplex': warning STL4004: <ccomplex>, <cstdalign>, <cstdbool>, and <ctgmath> are deprecated in C++17. You can define _SILENCE_CXX17_C_HEADER_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+  Main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\ccomplex(22,23): warning C4996: '_Header_ccomplex': warning STL4004: <ccomplex>, <cstdalign>, <cstdbool>, and <ctgmath> are deprecated in C++17. You can define _SILENCE_CXX17_C_HEADER_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+  mid.cpp
+  Track.cpp
+  wav.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\ccomplex(22,23): warning C4996: '_Header_ccomplex': warning STL4004: <ccomplex>, <cstdalign>, <cstdbool>, and <ctgmath> are deprecated in C++17. You can define _SILENCE_CXX17_C_HEADER_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+     ライブラリ D:\Users\Documents\Programs\C++\midiwav\Release\midiwav.lib とオブジェクト D:\Users\Documents\Programs\C++\midiwav\Release\midiwav.exp を作成中
+  コード生成しています。
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 1659 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+DirectXTK.lib(Keyboard.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'DirectXTK.lib(Keyboard.obj)' で、または 'D:\Users\Documents\Programs\C++\midiwav\Release\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTK.lib(SpriteBatch.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'DirectXTK.lib(SpriteBatch.obj)' で、または 'D:\Users\Documents\Programs\C++\midiwav\Release\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTK.lib(SpriteFont.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'DirectXTK.lib(SpriteFont.obj)' で、または 'D:\Users\Documents\Programs\C++\midiwav\Release\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTK.lib(WICTextureLoader.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'DirectXTK.lib(WICTextureLoader.obj)' で、または 'D:\Users\Documents\Programs\C++\midiwav\Release\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTK.lib(pch.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'DirectXTK.lib(pch.obj)' で、または 'D:\Users\Documents\Programs\C++\midiwav\Release\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTK.lib(BufferHelpers.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'DirectXTK.lib(BufferHelpers.obj)' で、または 'D:\Users\Documents\Programs\C++\midiwav\Release\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTK.lib(CommonStates.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'DirectXTK.lib(CommonStates.obj)' で、または 'D:\Users\Documents\Programs\C++\midiwav\Release\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTK.lib(VertexTypes.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'DirectXTK.lib(VertexTypes.obj)' で、または 'D:\Users\Documents\Programs\C++\midiwav\Release\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTK.lib(BinaryReader.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'DirectXTK.lib(BinaryReader.obj)' で、または 'D:\Users\Documents\Programs\C++\midiwav\Release\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+  midiwav.vcxproj -> D:\Users\Documents\Programs\C++\midiwav\Release\midiwav.exe
